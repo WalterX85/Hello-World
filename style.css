@@ -1,0 +1,93 @@
+.navigator {
+  background-color: #535353;
+  color: #e2e2e2;
+  display: block;
+  height: 50px;
+  margin-bottom: 5px;
+}
+ul {
+  display: flex;
+  font-size: 20px;
+}
+ul li {
+  list-style: none;
+  padding: 10px 20px 10px 10px;
+}
+.carousel {
+  display:block;
+  height: 400px;
+  background-color: #a0a0a0;
+}
+.titre {
+  display: flex;
+  background-color: #ffffff;
+  margin: 40px 350px 40px;
+  color: #595252;
+}
+.texte {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.block1 {
+  width: 350px;
+  height: 400px;
+  background-color: #d5d5d5;
+}
+
+.block2 {
+  width: 350px;
+  height: 400px;
+  background-color: #d5d5d5;
+}
+
+.block3 {
+  width: 350px;
+  height: 400px;
+  background-color: #d5d5d5;
+}
+
+.contact {
+  margin-top: 150px;
+    border-bottom: solid;
+    border-width: 2px;
+    border-color:black red;
+    padding:0 10px;
+    color:#535353;
+}
+
+input[type="text"] {
+  background-color: #ffffff;
+  color: rgb(155, 155, 155);
+  padding: 12px 20px;
+  border: 1px solid rgb(7, 7, 7);
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-left: 100px;
+  width: 80%;
+}
+
+input[type="email"] {
+  background-color: #ffffff;
+  color: rgb(155, 155, 155);
+  padding: 12px 20px;
+  border: 1px solid rgb(7, 7, 7);
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-left: 100px;
+  width: 80%;
+}
+
+.msg {
+  background-color: #ffffff;
+  color: rgb(155, 155, 155);
+  border: 1px solid rgb(7, 7, 7);
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-left: 100px;
+  width: 82.4%;
+  height: 150px;
+}
